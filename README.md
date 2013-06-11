@@ -16,13 +16,13 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 6. Click on Installed Plugins
 7. Click Activate under the Prizm Cloud Embedded Document Viewer
 
-##Configuring Plugin - Adding Key - Required Step
+###Configuring Plugin - Adding Key - Required Step
 
 1. Click on Settings then Prizm Cloud within navigation
 2. Add your Prizm Cloud Key
 3. Click Save Changes
 
-##Adding Document Viewer to a Page
+###Adding Document Viewer to a Page
 
 1. Click on Pages in navigation
 2. Open an existing page or create a new one
