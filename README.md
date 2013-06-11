@@ -1,8 +1,8 @@
-##PrizmCloud Emebbed Document Viewer for Wordpress
+##Prizm Cloud Emebbed Document Viewer for Wordpress
 
-Wordpress plugin for PrizmCloud Embedded Document Viewer. Embed our document viewer in your site. Your visitors view your documents in any of 300+ file types. Just like that.
+Wordpress plugin for Prizm Cloud Embedded Document Viewer. Prizm Cloud enables you to offer high-speed document viewing without worrying about additional hardware or installing software.  The documents stay on your servers, so you can delete, update, edit and change them anytime. We don't keep copies of your documents, so they are always secure!
 
-You will need a PrizmCloud account to use PrizmCloud Document Viewer. [PrizmCloud Sign Up](http://prizmcloud.accusoft.com/register.html "PrizmCloud") 
+You will need a Prizm Cloud account to use Prizm Cloud Document Viewer. [PrizmCloud Sign Up](http://prizmcloud.accusoft.com/register.html "PrizmCloud") 
 
 View a [demo](http://prizmcloud.accusoft.com/demo.html)
 
