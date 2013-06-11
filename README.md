@@ -22,10 +22,12 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 2. Add your Prizm Cloud Key
 3. Click Save Changes
 
-###Adding Document Viewer to a Page
+###Adding Document Viewer to a Page or Post
 
-1. Click on Pages in navigation
-2. Open an existing page or create a new one
+1. Click on Pages or Posts in navigation
+2. Open an existing page/post or create a new one *
 3. Within the content editor, click on the Prizm Cloud Button
 4. Fill in Fields and insert
 5. Save page
+
+> *hint: within the content editor, put your cursor where you want the document viewer to appear on the page before clicking the Prizm Cloud Button
