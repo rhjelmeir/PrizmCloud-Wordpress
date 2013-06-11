@@ -8,9 +8,9 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 
 ##Manual Installation Instructions
 
-1. Download zip file
+1. Download github zip file and unzip
 2. Log into Wordpress Admin
 3. Click on Plugins menu, click Add New
 4. Click Upload
-5. Choose the downloaded zip and click Install Now
+5. Choose prizmcloud.zip (present in the unzipped folder) and click Install Now
 
